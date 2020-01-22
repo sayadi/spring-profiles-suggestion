@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "prop1",
+      "type": "java.lang.String",
+      "description": "Test property to demonstrate shared variables."
+    },
+    {
+      "name": "prop2",
+      "type": "java.lang.String",
+      "description": "Test property to demonstrate shared variables across non-production profiles."
+    },
+    {
+      "name": "prop3",
+      "type": "java.lang.String",
+      "description": "Test property to demonstrate profile-specific variables."
+    }
+  ]
+}
